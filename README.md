@@ -7,7 +7,7 @@ This IPython notebook is a continuation of [work (IPython-NB Link)] (http://nbvi
 
 Content
 ---
-	1. [Data Preparation] - A lot of this follows from work during 
+	1. [Data Preparation](http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA-Theano/blob/master/Data-Cleaning.ipynb) - A lot of this follows from work during 
 	   	 	      our previous meetup, i.e : Data cleaning using Pandas.
 	2. [Logistic Regression using Theano]
 	3. [Neural Network Training using Theano]
