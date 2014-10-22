@@ -5,13 +5,14 @@ Logistic Regression and a single layer neural network for the Kaggle Titanic Com
 
 This IPython notebook is a continuation of [work (IPython-NB Link)] (http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA/blob/master/TitanicPythonIntro.ipynb) from our previous meetup for the Kaggle Titanic Competition. The solution presented there was using Pandas+SciKit Learn. [Click here](https://github.com/aanchan/Titanic-MTLDATA) for the Github page for that meetup.
 
-Broadly there are three companion IPython notebooks in this edition
+Content
+---
 	1. [Data Preparation] - A lot of this follows from work during our previous meetup, i.e : Data cleaning using Pandas.
 	2. [Logistic Regression using Theano]
 	3. [Neural Network Training using Theano]
 
 Useful stuff
-====
+----
 
 Installing tools required for code in this tutorial run on your system.
 ----
