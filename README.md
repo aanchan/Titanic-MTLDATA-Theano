@@ -48,3 +48,7 @@ The [Python Pandas Cookbook Lecture Series](http://www.youtube.com/playlist?list
 Introduction to Theano
 ---
 While the great tutorial webpages appear on the Theano website, a companion IPython notebook with similar content, and especially a great intro code to Neural Networks is available [here](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb). 
+
+Introduction to Neural Networks
+---
+A clear (and correct) introduction to [Neural Networks](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks) by Prof. Andrew Ng at Stanford.
