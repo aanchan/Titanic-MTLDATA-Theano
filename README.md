@@ -9,7 +9,7 @@ Content
 ---
 [Data Preparation](http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA-Theano/blob/master/Data-Cleaning.ipynb) - A lot of this follows from work during our previous meetup, i.e : Data cleaning using Pandas.
 
-[Logistic Regression using Theano]
+[Logistic Regression using Theano](http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA-Theano/blob/master/Theano-Logistic-Regression.ipynb)
 
 [Neural Network Training using Theano]
 
