@@ -49,6 +49,16 @@ Introduction to Theano
 ---
 While the great tutorial webpages appear on the Theano website, a companion IPython notebook with similar content, and especially a great intro code to Neural Networks is available [here](http://nbviewer.ipython.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb). 
 
+Introduction to Logistic Regression
+----
+[A Simple Explanation from Duke Medicine](https://www.youtube.com/watch?v=_Po-xZJflPM)
+
+[Logistic Regression for Classification](http://youtu.be/nMcxOiVj7oE)
+
 Introduction to Neural Networks
 ---
+[Logistic and Softmax Regression](http://ufldl.stanford.edu/wiki/index.php/Softmax_Regression) by Prof. Andrew Ng at Stanford.
+
 A clear (and correct) introduction to [Neural Networks](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks) by Prof. Andrew Ng at Stanford.
+
+
