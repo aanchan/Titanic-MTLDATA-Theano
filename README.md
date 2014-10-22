@@ -11,7 +11,7 @@ Content
 
 [Logistic Regression using Theano](http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA-Theano/blob/master/Theano-Logistic-Regression.ipynb)
 
-[Neural Network Training using Theano]
+[Neural Network Training using Theano](http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA-Theano/blob/master/Theano-MLP-Titanic-2.ipynb)
 
 Installing tools required for code in this tutorial run on your system.
 ----
